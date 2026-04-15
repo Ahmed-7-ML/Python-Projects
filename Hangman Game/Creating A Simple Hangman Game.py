@@ -79,3 +79,9 @@ else:
     print(f"💀Game over! It was '{word}'")
 
 # print(guesses)
+
+
+# To convert it into .exe file (Executable)
+# 1. Install Library -> pip install pyinstaller
+# 2. Go to Code Folder and Write -> pyinstaller --onefile your_script_name.py
+# 3. 'dist' folder will be created -> you will found your .exe file inside it 
