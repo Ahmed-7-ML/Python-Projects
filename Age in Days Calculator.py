@@ -6,3 +6,7 @@ age = int(input("Hey user! Input your age (in years): "))
 # 22 * 365
 
 print(f"Your age in days: {age * 365}")
+
+# mylist: list[int] = [1, 2, 4, 3]
+
+# print(mylist)
